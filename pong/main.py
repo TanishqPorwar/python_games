@@ -33,8 +33,8 @@ ball.speed(0)
 ball.shape("square")
 ball.color("white")
 ball.goto(0, 0)
-ball.dx = 0.5
-ball.dy = 0.5
+ball.dx = 0.2
+ball.dy = 0.2
 
 # score
 score_a = 0
